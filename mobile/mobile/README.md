@@ -44,7 +44,7 @@ lib/
 
 ### Node.js Application
 
-```
+
 
 server/
 ├── routes/ # API routes
@@ -55,8 +55,8 @@ server/
 ├── package.json # Dependencies
 └── index.js # Entry point
 
-```
 
+```
 ## Implementation Details
 
 ### MVVM Architecture
