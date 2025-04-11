@@ -1,0 +1,4 @@
+#Fri Apr 11 11:43:27 IST 2025
+base.0=/Applications/development/Flutter Projects/task3/mobile/mobile/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
